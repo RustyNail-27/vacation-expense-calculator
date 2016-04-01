@@ -1,0 +1,20 @@
+Paris,7,2200.00
+Havana,7,1500.00
+New York,3,700.00
+London,5,3000.00
+Prague,8,4000.00
+Toronto,4,700.00
+Berlin,12,3500.00
+Hong Kong,10,4500.00
+Venice,14,6000.00
+St.Lucia,7,2300.00
+Moon,15,450000.00
+Vancouver,3,820.00
+Calgary,5,1200.00
+Pheonix,12,4500.00
+Montreal,14,7500.00
+Dresden,20,8000.00
+Florence,10,6000.00
+Chicago,7,2400.00
+Rio,9,2300.00
+Rome,12,5500.00
